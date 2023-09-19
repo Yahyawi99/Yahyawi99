@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi there👋
 
 <!--
 **Yahyawi99/Yahyawi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋, I'm Yassin Yahyawi
+Hi 👋, I'm **Yassin Yahyawi**
 
 I am a Fullstack MERN Developer
 
