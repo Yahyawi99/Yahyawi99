@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi 👋, I'm Yassin Yahyawi
+
+I am a Fullstack MERN Developer
+
+🌱 The project which best represents my skillset is [Kanban Task Management](https://kanban-task-management-4ze5.onrender.com/)
+
+👨‍💻 View my work at [yassin-yahyawi.vercel.app](https://yassin-yahyawi.vercel.app/)
+
+📫Reach me on yassinyahyawi26@gmail.com
+
+<!-- Languages and Tools:
+Javascript Express.js MongoDB HTML5 CSS3 React Git
+
+Connect with me:
+https://twitter.com/YassinYahyawi99-->
