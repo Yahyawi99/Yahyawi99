@@ -19,7 +19,7 @@ I'm **Yassin Yahyawi**
 
 I am a Fullstack MERN Developer
 
-🌱 The project which best represents my skillset is [KANBAN TASK MANAGEMENT](https://kanban-task-management-4ze5.onrender.com/)
+🌱 The project which best represents my skillset is [KANBAN Task Management](https://kanban-task-management-4ze5.onrender.com/)
 
 👨‍💻 View my work at [yassin-yahyawi.vercel.app](https://yassin-yahyawi.vercel.app/)
 
