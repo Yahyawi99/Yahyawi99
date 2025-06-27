@@ -25,8 +25,9 @@ I am a Fullstack MERN Developer
 
 📫Reach me on yassinyahyawi26@gmail.com
 
+<!-- 
 Languages and Tools:
 Javascript Express.js MongoDB HTML5 CSS3 React Git
-<!-- 
+
 Connect with me:
 https://twitter.com/YassinYahyawi99-->
