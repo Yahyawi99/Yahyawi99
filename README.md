@@ -1,6 +1,6 @@
 # Hi, I’m Yassine Yahyawi 👋
 
-I’m a Fullstack MERN Developer turning ideas into reality with scalable, user-friendly web apps. I hold a Bachelor’s in Computer Science (2025) and will start my Master’s program in 2025.
+I’m a Fullstack Developer turning ideas into reality with scalable, user-friendly web apps.
 
 ---
 
