@@ -1,17 +1,17 @@
 # Hi, I’m Yassine Yahyawi 👋
 
-I’m a Fullstack MERN Developer turning ideas into reality with scalable, user-friendly web apps. I hold a Bachelor’s in Computer Science (2025) and have been accepted into a Master’s program.
+I’m a Fullstack MERN Developer turning ideas into reality with scalable, user-friendly web apps. I hold a Bachelor’s in Computer Science (2025) and will start my Master’s program in 2025.
 
 ---
 
 ## 🧰 Skills & Technologies
 
-| Frontend                    | Backend                  | DevOps & Tools             |
+| Frontend                    | Backend                  | Tools & Testing            |
 |-----------------------------|--------------------------|----------------------------|
-| React · Redux · Context API | Node.js · Express.js     | Docker · Kubernetes        |
-| Next.js · TypeScript        | Java · MongoDB · Mongoose| Git · GitHub Actions       |
-| HTML5 · CSS3 · Sass         | REST · GraphQL           | CI/CD · AWS · Vercel       |
-| JavaScript (ES6+)           |                          | Jest · React Testing Library |
+| React · Redux · Context API | Node.js · Express.js     | Git · GitHub               |
+| Next.js · TypeScript        | MongoDB · Mongoose       | Postman · VS Code          |
+| HTML5 · CSS3 · Sass         | Java                     | Jest · React Testing Library |
+| JavaScript (ES6+)           | REST · GraphQL           |                            |
 
 ---
 
@@ -32,15 +32,16 @@ A robust bug-tracking system that empowers teams to report, track, and resolve i
 
 ## 🌱 Currently Learning
 
-- Advanced DevOps practices (Kubernetes, AWS workflows)  
-- Java frameworks (Spring Boot)  
+- Docker & Kubernetes (DevOps fundamentals)  
+- AWS basics and CI/CD workflows  
+- Spring Boot for enterprise Java  
 
 ---
 
 ## 🎓 Education
 
 - Bachelor of Science in Computer Science, 2021–2025  
-- Accepted into Master’s program in Computer Science (2025–2027)  
+- Master’s in Computer Science (upcoming, 2025–2027)  
 
 ---
 
@@ -48,6 +49,7 @@ A robust bug-tracking system that empowers teams to report, track, and resolve i
 
 - Email: [yassinyahyawi26@gmail.com](mailto:yassinyahyawi26@gmail.com)  
 - Portfolio: [yassin-yahyawi.vercel.app](https://yassin-yahyawi.vercel.app/)  
+- LinkedIn: [linkedin.com/in/yassin-yahyawi-90556321a](https://www.linkedin.com/in/yassin-yahyawi-90556321a/)  
 - GitHub: [github.com/Yahyawi99](https://github.com/Yahyawi99)  
 
 ---
