@@ -60,7 +60,6 @@ A robust bug-tracking system that empowers teams to report, track, and resolve i
 
 ![GitHub Contribution Calendar](https://ghchart.rshah.org/Yahyawi99)
 
-> Includes public and private contributions (if enabled in GitHub settings).
 
 ### 📈 Profile Stats
 
@@ -68,5 +67,18 @@ A robust bug-tracking system that empowers teams to report, track, and resolve i
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahyawi99&layout=compact&theme=tokyonight)
 
+## 🧑‍💼 Internship Contributions
+
+During my internship, I worked on production-level codebases and collaborated with engineering teams to deliver real value. Although the repositories are private, here’s a snapshot of my impact:
+
+- ✅ **Multiple pull requests** successfully merged into internal repositories  
+- 🛠️ Contributed to backend features, bug fixes, and performance improvements  
+- 🤝 Participated in code reviews, agile sprints, and team stand-ups  
+- 🔐 Work was completed under NDA in private repositories
+
+> These contributions reflect my ability to work in real-world environments, write maintainable code, and collaborate effectively with professional teams.
+
 ---
+
+
 
