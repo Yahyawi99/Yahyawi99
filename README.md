@@ -1,33 +1,59 @@
- Hi there👋
+# Hi, I’m Yassine Yahyawi 👋
 
-<!--
-**Yahyawi99/Yahyawi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Fullstack MERN Developer turning ideas into reality with scalable, user-friendly web apps. I hold a Bachelor’s in Computer Science (2025) and have been accepted into a Master’s program.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills & Technologies
 
-I'm **Yassine Yahyawi**
+| Frontend                    | Backend                  | DevOps & Tools             |
+|-----------------------------|--------------------------|----------------------------|
+| React · Redux · Context API | Node.js · Express.js     | Docker · Kubernetes        |
+| Next.js · TypeScript        | Java · MongoDB · Mongoose| Git · GitHub Actions       |
+| HTML5 · CSS3 · Sass         | REST · GraphQL           | CI/CD · AWS · Vercel       |
+| JavaScript (ES6+)           |                          | Jest · React Testing Library |
 
-I am a Fullstack MERN Developer
+---
 
-🌱 The project which best represents my skillset is [BugTracker](https://bugtracker-m9ta.onrender.com/)
+## 📂 Featured Project
 
-👨‍💻 View my work at [yassin-yahyawi.vercel.app](https://yassin-yahyawi.vercel.app/)
+**BugTracker**
 
-📫Reach me on yassinyahyawi26@gmail.com
+A robust bug-tracking system that empowers teams to report, track, and resolve issues seamlessly.
 
-<!-- 
-Languages and Tools:
-Javascript Express.js MongoDB HTML5 CSS3 React Git
+- Authentication & role-based access control  
+- Real-time notifications and in-app chat  
+- File and screenshot attachments  
+- Responsive design with an intuitive UI  
 
-Connect with me:
-https://twitter.com/YassinYahyawi99-->
+🔗 https://github.com/Yahyawi99/BugTracker
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced DevOps practices (Kubernetes, AWS workflows)  
+- Java frameworks (Spring Boot)  
+
+---
+
+## 🎓 Education
+
+- Bachelor of Science in Computer Science, 2021–2025  
+- Accepted into Master’s program in Computer Science (2025–2027)  
+
+---
+
+## 📫 Get in Touch
+
+- Email: [yassinyahyawi26@gmail.com](mailto:yassinyahyawi26@gmail.com)  
+- Portfolio: [yassin-yahyawi.vercel.app](https://yassin-yahyawi.vercel.app/)  
+- GitHub: [github.com/Yahyawi99](https://github.com/Yahyawi99)  
+
+---
+
+## 📊 GitHub Stats
+
+![Yassine’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yahyawi99&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahyawi99&layout=compact&theme=tokyonight)
