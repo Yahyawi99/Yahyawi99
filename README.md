@@ -62,19 +62,8 @@ To surface your pull-request activity (and not just commit counts), you can swap
 
 ### GitHub Activity Badges
 
-[![PRs this year](https://img.shields.io/github/issues-pr-closed-raw/Yahyawi99?color=blue&style=flat-square&label=PRs%20closed)](https://github.com/Yahyawi99?tab=pulls)  
-[![Open Issues](https://img.shields.io/github/issues/Yahyawi99?color=yellow&style=flat-square)](https://github.com/Yahyawi99/issues)  
-[![Stars](https://img.shields.io/github/stars/Yahyawi99?color=gold&style=flat-square)](https://github.com/Yahyawi99/stargazers)  
-[![Forks](https://img.shields.io/github/forks/Yahyawi99?color=lightgrey&style=flat-square)](https://github.com/Yahyawi99/network)
-
----
 
 ### Contribution Calendar
 
 ![GitHub Contribution Calendar](https://ghchart.rshah.org/Yahyawi99)
 
----
-
-With these badges and the calendar, your README will automatically reflect exactly how many PRs you’ve opened and merged, plus your overall contribution heatmap.  
-
-If you’d like to fine-tune colors, labels, or add other stats—like issues opened or repos contributed to—just let me know!
